@@ -9,7 +9,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=1KONSTANT1)<br />
-[![trophy](https://github-profile-trophy.vercel.app/?username=1KONSTANT1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=1KONSTANT1)](https://github.com/ryo-ma/github-profile-trophy)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ЛЩТЫЕФТЕ1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **1KONSTANT1/1KONSTANT1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
