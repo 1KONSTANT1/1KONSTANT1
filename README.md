@@ -1,7 +1,4 @@
-### Hi 👋, i'm
-###Kostya
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F726&multiline=true&width=442&height=100&lines=Hi+there%2C+i'm;Kostya)](https://git.io/typing-svg)
 
 <!--
 **1KONSTANT1/1KONSTANT1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
