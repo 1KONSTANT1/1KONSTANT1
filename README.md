@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F726&multiline=true&width=442&height=100&lines=Hi+there%2C+i'm;Kostya)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F726&multiline=true&width=442&height=100&lines=Hi+there%2C+i'm;Kostya)](https://git.io/typing-svg)
 
 <!--
 **1KONSTANT1/1KONSTANT1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
