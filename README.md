@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=10&color=00F726&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=180&lines=Hi+there%2C+i'm;Kostya+and+i'm+a;computer+science+student" alt="Typing SVG" ></a>
 </p>
-
-
-
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 ![](https://komarev.com/ghpvc/?username=1KONSTANT1)<br />
