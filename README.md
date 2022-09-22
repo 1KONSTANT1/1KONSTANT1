@@ -8,7 +8,8 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=1KONSTANT1)
+![](https://komarev.com/ghpvc/?username=1KONSTANT1)<br />
+[![trophy](https://github-profile-trophy.vercel.app/?username=1KONSTANT1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **1KONSTANT1/1KONSTANT1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
