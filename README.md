@@ -9,7 +9,7 @@
 ### :man_technologist: About Me :
 - :mortar_board: I’m currently studying at the Faculty of Computational Mathematics and Cybernetics.
 - :man: I'm 20 years old
-- I live and study in Russia
+- 🇷🇺 I live and study in Russia
 - :zap: In my free time, I solve problems on LeetCode and Codewars, read tech articles, learn new algorithms and programming languages.
 [![trophy](https://github-profile-trophy.vercel.app/?username=1KONSTANT1)](https://github.com/ryo-ma/github-profile-trophy)   &emsp; &emsp;    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1KONSTANT1)](https://github.com/anuraghazra/github-readme-stats)
 
