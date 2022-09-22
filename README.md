@@ -11,6 +11,13 @@
 - :man: I'm 20 years old
 - 🇷🇺 I live and study in Russia
 - :zap: In my free time, I solve problems on LeetCode and Codewars, read tech articles, learn new algorithms and programming languages.
+<br />
+
+---
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
+</div>
 [![trophy](https://github-profile-trophy.vercel.app/?username=1KONSTANT1)](https://github.com/ryo-ma/github-profile-trophy)   &emsp; &emsp;    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1KONSTANT1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
