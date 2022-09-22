@@ -37,8 +37,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=1KONSTANT1)](https://github.com/ryo-ma/github-profile-trophy)   &emsp; &emsp;    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1KONSTANT1)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+### 🔥: About my github :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1KONSTANT1)](https://github.com/anuraghazra/github-readme-stats) <br />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=1KONSTANT1)](https://github.com/ryo-ma/github-profile-trophy)   &emsp; &emsp;   
+<br />
+---
+### 📫 How to reach me:
+- 📧 mail.ru:
+- 📧 ispras.ru:
+- <img src="https://cdn-icons-png.flaticon.com/512/2875/2875435.png" title="gmail" alt="gmail" width="15" height="15"/>&nbsp; gmail.com:
+- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" title="Vk" alt="Vk" width="15" height="15"/>&nbsp;VK:
+- <img src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" title="Instagram" alt="Instagram" width="15" height="15"/>&nbsp;Instagram:
+- <img src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" title="Facebook" alt="Facebook" width="15" height="15"/>&nbsp;Facebook:
 <!--
 **1KONSTANT1/1KONSTANT1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
