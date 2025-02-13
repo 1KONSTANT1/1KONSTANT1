@@ -7,10 +7,7 @@
 
 ---
 ### :man_technologist: About Me :
-- :mortar_board: I’m currently studying at the Faculty of Computational Mathematics and Cybernetics.
-- :man: I'm 21 years old
-- 🇷🇺 I live and study in Russia
-- :zap: In my free time, I solve problems on LeetCode and Codewars, read tech articles, learn new algorithms and programming languages.
+
 <br />
 
 ---
